@@ -98,4 +98,7 @@
   
   /* A container for any surveys specified for this application form. */
   .ashby-survey-form-container {}
-  
+ 
+body {
+  background-color: none !important;
+} 
