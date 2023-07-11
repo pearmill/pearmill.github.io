@@ -1,7 +1,7 @@
 /* stylelint-disable */
 
 /* These variables can be used to control values throughout the job board. */
-  
+  :root { 
     /*  The max width of the job board container */
     --widthMaxJobBoard: 800px;
   
